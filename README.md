@@ -68,5 +68,4 @@ server {
 #### References :
 1. https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-18-04#checking-for-the-gunicorn-socket-file
 2. https://docs.djangoproject.com/en/1.10/intro/tutorial01/
-
 3.http://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html
